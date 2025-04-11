@@ -4,13 +4,14 @@ A curated list of my published writings — technical deep-dives, personal journ
 
 ---
 
-## 🆕 [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI & Compose]([https://medium.com/@salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-bcb76adead7c](https://medium.com/@salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-ff2b7875d8a7).
-In-app messaging plays a critical role in how users interact with modern apps — from promoting offers to driving engagement and retention. 
+## 🆕 [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI & Compose](https://medium.com/@salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-ff2b7875d8a7)
+
+In-app messaging plays a critical role in how users interact with modern apps — from promoting offers to driving engagement and retention.  
 **Published on:** April 11, 2025 · ⏱️ 10 min read
 
 ---
 
-## 🆕 [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://medium.com/@salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-bcb76adead7c)
+## [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://medium.com/@salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-bcb76adead7c)
 🎨 Paragraph 1: The Artist’s Pain  
 **Published on:** Mar 31, 2025 · ⏱️ 13 min read
 
