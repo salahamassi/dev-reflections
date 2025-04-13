@@ -7,7 +7,7 @@ A curated list of my published writings — technical deep-dives, personal journ
 ## 🆕 [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI & Compose](https://medium.com/@salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-ff2b7875d8a7)
 
 In-app messaging plays a critical role in how users interact with modern apps — from promoting offers to driving engagement and retention.  
-**Published on:** April 11, 2025 · ⏱️ 10 min read
+**Published on:** April 11, 2025 · ⏱️ 16 min read
 
 ---
 
