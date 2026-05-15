@@ -4,7 +4,14 @@ A curated list of my published writings — technical deep-dives, personal journ
 
 ---
 
-## 🆕 [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI & Compose](https://medium.com/@salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-ff2b7875d8a7)
+## 🆕 [Swift Protocol Magic II: Designing a Reusable Location Tracking System](https://medium.com/@salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-9ae7296dd16b)
+
+How to stop rewriting CLLocationManager boilerplate in every screen — and design something your future self will actually thank you for.  
+**Published on:** May 15, 2026 · ⏱️ 10 min read
+
+---
+
+## [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI & Compose](https://medium.com/@salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-ff2b7875d8a7)
 
 In-app messaging plays a critical role in how users interact with modern apps — from promoting offers to driving engagement and retention.  
 **Published on:** April 11, 2025 · ⏱️ 16 min read
