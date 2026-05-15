@@ -8,11 +8,11 @@ Whether it's crafting beautiful architectures in Swift, innovating in Flutter wi
 
 ## 📌 Latest Article
 
-### [Swift Protocol Magic: Building a Beautiful, Reusable Option Selection System](https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai)
+### [Swift Protocol Magic II: Designing a Reusable Location Tracking System]([https://dev.to/salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-37ai](https://dev.to/salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-2heh))
 
 > A story about turning repetition into architecture, and code into calm. From `MenuType` to dynamic API-based dropdowns — and a personal journey from Gaza to Cairo.
 
-📖 Also available on [Medium](https://medium.com/@salahamassi/swift-protocol-magic-building-a-beautiful-reusable-option-selection-system-bcb76adead7c)
+📖 Also available on [Medium](https://medium.com/@salahamassi/swift-protocol-magic-ii-designing-a-reusable-location-tracking-system-9ae7296dd16b)
 
 ---
 
